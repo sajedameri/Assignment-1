@@ -145,3 +145,23 @@ padding: 12px 16px 12px 16px;
   border-radius: 12px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.05);
 }
+.cta {
+  background: #f8fafc;
+  padding: 80px;
+  text-align: center;
+}
+
+.cta small {
+  display: block;
+  margin-top: 10px;
+  color: #64748b;
+}
+.footer {
+  background: #020617;
+  color: #94a3b8;
+  padding: 40px;
+  text-align: center;
+}
+
+
+
