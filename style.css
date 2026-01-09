@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.navber{
+  max-width: 1600;
+  height: 92;
+  background-color: #b51010;
+   justify-content: space-between;
+   display: flex;
+  
+}
+.link parent {
+display: flex;
+list-style: none;
+
+}
+.link parent a{
+  display: flex;
+  text-decoration: none;
+}
+
+.btn-1{
+  background-color:  green;
+  color: rgba(255, 255, 255, 1);
+  width: 132px;
+height: 19px
+}
