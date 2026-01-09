@@ -186,6 +186,7 @@ padding: 12px 16px 12px 16px;
 }
 .solution {
   padding: 100px 80px;
+  
 }
 .card-img {
   display: flex;             
@@ -211,6 +212,11 @@ padding: 12px 16px 12px 16px;
 .text-box p {
   color: #64748b;
   max-width: 520px;
+  padding: 100px;
+  align-items: center;
+}
+.text-item{
+  padding: 100px;
 }
 
 
