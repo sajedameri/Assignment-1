@@ -28,12 +28,13 @@ list-style: none;
 .navber ul{
   justify-content: space-between;
   gap: 40px;
+  align-items: center;
 
 }
 
 .btn-1{
   background-color: rgba(255, 255, 255, 1);
-  color: green
+  color: green;
 padding:15px 25px;
 margin: 10px;
 
@@ -53,6 +54,7 @@ height: 60px;
 background-color: aliceblue;
 padding:15px 25px;
 border-radius: 25px;
+margin-top: 30px;
 
 
 
@@ -68,7 +70,7 @@ border-radius: 25px;
 .bannar{
   max-width:1600px;
 height: 1000px;
-background-image:url(/assets/hero-bg.png);
+background-image:url("./assets/hero-bg.png");
 }
 .bannar-item{
   display: center;
@@ -135,7 +137,7 @@ padding: 12px 16px 12px 16px;
 
 .cards {
   display: flex;
- justify-content: ;
+ 
   gap: 20px;
 }
 
@@ -200,6 +202,15 @@ padding: 12px 16px 12px 16px;
   text-transform: uppercase;
   font-size: 14px;
   margin-bottom: 10px;
+}
+.text-box h2 {
+  font-size: 42px;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+.text-box p {
+  color: #64748b;
+  max-width: 520px;
 }
 
 
